@@ -135,3 +135,7 @@
 ## V
 
 **Variable:** contenedor en los que puedes almacenar valores.
+hola
+npm install
+dksodk
+skodkdso
